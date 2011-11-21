@@ -9,7 +9,7 @@
 }
 
 #topnav {
-	margin-bottom: 3em;
+	margin-bottom: 5em;
 	background-color: #d93b62;
 	text-transform: uppercase;
 	color: white;
@@ -19,6 +19,10 @@
 	font-size: 9pt;
 	font-weight: bold;
 	text-transform: uppercase;
+}
+
+#midnav ul {
+	margin-bottom: 0;
 }
 
 #main {
